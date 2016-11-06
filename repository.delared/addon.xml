@@ -2,9 +2,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.delared" name="DelaRed Kodi" version="1.1.0" provider-name="DelaRed">
 	<extension point="xbmc.addon.repository" name="DelaRed Kodi">
-		<info compressed="false">https://raw.githubusercontent.com/delared/delared01/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/delared/delared01/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/delared/delared01/master</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/delared/delared/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/delared/delared/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/delared/delared/master</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>DelaRed Kodi</summary>
